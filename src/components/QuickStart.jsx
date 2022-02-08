@@ -9,7 +9,7 @@ export default function QuickStart() {
       frameBorder="no"
       allow="accelerometer; autoplay; camera; gyroscope; payment;"
       style={{
-        width: "600px",
+        width: "1200px",
         height: "6025px",
         boxShadow: "0 0.5rem 1.2rem rgb(189 197 209 / 20%)",
         border: "1px solid #e7eaf3",
